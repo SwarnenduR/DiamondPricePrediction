@@ -1,10 +1,12 @@
 Metadata-Version: 2.1
 Name: DiamonPricePrediction
 Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
 Author: Swarnendu Ruidas
 Author-email: swarnenduruidas27@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: flask
-Requires-Dist: seaborn
-Requires-Dist: scikit-learn
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+
